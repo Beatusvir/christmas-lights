@@ -4,6 +4,8 @@ Christmas lights show using Arduino with Wizards of Winter of course!
 # Disclaimer
 You need to work with your home AC outlet, this can be dangerous. Please get help if you don't have experience with this sort of things, better to be safe than sorry :smile:
 
+The code has 900+ lines, I did my best to create functions for repetitive tasks or similar sequences, but I'm sure there are weird things around, so I apologize in advanced.
+
 ## Information
 This is a project for christmas lights manually synced(this is not a fun part) to [Trans-Siberian Orchestra](http://www.trans-siberian.com/) Wizars of Winter. I used [Arduino](https://www.arduino.cc/) UNO to control 8 digital outputs. The outputs are connected to an [8 Relay Board](http://www.sainsmart.com/8-channel-dc-5v-relay-module-for-arduino-pic-arm-dsp-avr-msp430-ttl-logic.html). The relay board is powered with a separate power adapter because the arduino digital output is not enough for the 8 relays.
 
