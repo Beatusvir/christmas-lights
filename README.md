@@ -41,5 +41,6 @@ autocmd filetype arduino nnoremap <F5> :w <bar> exec '!cd .. && platformio run -
 
 
 # TODO
+* House diagram to show connections
 * Outlet connection
 * It's too late, I may need to organize this doc
