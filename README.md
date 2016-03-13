@@ -1,4 +1,4 @@
-# Christmas Lights
+# Arduino Christmas Lights
 Christmas lights show using Arduino with Wizards of Winter of course!
 
 # Disclaimer
